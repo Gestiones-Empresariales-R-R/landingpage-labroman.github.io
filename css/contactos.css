@@ -1,0 +1,123 @@
+
+header{
+    height: 600px;
+    width: 1519px;
+    margin-left: -8px;
+    margin-top: -16px;
+}
+
+.nav_list{
+    display: flex;
+    padding: 50px;
+}
+
+.nav_item{
+    margin-right: 20px;
+}
+
+.nav_link{
+    padding: 10px;
+    color: #ffffff;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.nav_link:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.text{
+    margin-top: 400px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+/* =========================== */
+
+h2{
+	text-align: center;
+}
+
+#contactos_info{
+	background: #FFF;
+	padding: 0px 0px 20px 0px;
+}
+
+#contactos_title{
+	width: 800px;
+	margin: auto; border: 0px solid; height: auto; overflow: hidden;
+}
+
+#contactos_title #izquierda{
+	width: 390px;
+	height: auto; 
+	overflow: hidden; 
+	border: 0px solid; 
+	float: left;
+}
+
+#contactos_title #izquierda h3{
+	text-align: left; color: #0B615E;
+	font-size: 22px;
+}
+
+#contactos_title #izquierda .descripcion{
+	color: #6E6E6E; text-align: left;
+}
+
+#contactos_title #izquierda #imagenes{
+	border: 0px solid; 
+	height: auto;
+	overflow: hidden;
+	width: 100%;
+}
+
+#contactos_title #izquierda #imagenes .img-services{
+	width: 120px; 
+	height: 100px;
+	border: 1px solid #ccc; 
+	padding: 2px; 
+	display: inline-block;
+}
+
+#contactos_title #derecha{
+	width: 390px;
+	height: auto; 
+	overflow: hidden; 
+	float: right;
+	margin-top: 14px;
+}
+
+#centro3 #derecha h3{
+	font-size: 22px;
+	color: #0B615E;
+}
+
+#contactos_title #derecha article{
+	width: 100%;
+	height: auto; overflow: hidden;
+	margin-top: -25px;
+}
+
+#contactos_title #derecha article h4{
+	text-align: left; font-size: 15px;
+}
+
+.contactos_strong_1{
+	font-family: 'Arial black';
+	font-size: 30px;
+}
+
+.t1{
+	color: #424242;
+}
+
+.t2{
+    color: #0489B1;
+}
+
+.contactos_descripcion{
+	color: #848484;
+}
+

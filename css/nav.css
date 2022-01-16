@@ -1,0 +1,46 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav_list{
+    display: flex;
+    padding: 60px;
+    position: absolute;
+    right: 0;
+}
+
+.nav_item{
+    margin-right: 20px;
+}
+
+.nav_link{
+    padding: 10px;
+    color: #ffffff;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.nav_link:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+/* ========================================================
+=======================RESPONSIVE==========================
+=========================================================== */
+
+@media screen and (max-width: 768px){
+    
+}
