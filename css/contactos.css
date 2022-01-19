@@ -1,9 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Spline+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
 
 header{
-    height: 600px;
-    width: 1519px;
-    margin-left: -8px;
-    margin-top: -16px;
+    height: 400px;
+    background-image: url(../img/contactos.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.appWhatsapp{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+}
+
+.appWhatsapp i{
+    font-size: 50px;
+    background-color: rgb(40, 216, 40);
+    border-radius: 100%;
+    color: white;
 }
 
 .nav_list{
@@ -46,7 +69,10 @@ h2{
 
 #contactos_title{
 	width: 800px;
-	margin: auto; border: 0px solid; height: auto; overflow: hidden;
+	margin: auto; 
+	border: 0px solid; 
+	height: auto; 
+	overflow: hidden;
 }
 
 #contactos_title #izquierda{

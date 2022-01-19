@@ -1,6 +1,6 @@
 <?php include('../resource/head.php') ?>
 
-<header style="background-image: url(../img/servicio_1.png);">
+<header class="header">
     <nav class="nav" id="nav-menu">
         <ul class="nav_list">
             <li class="nav_item">
@@ -15,9 +15,11 @@
         </ul>
     </nav>
     <div class="text">
-        <h1>Nuestros Servicios</h1>
+        <h1>❝ Nuestros Servicios ❞</h1>
     </div>
 </header>
+
+<a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=50576051000" class="appWhatsapp"><i class='bx bxl-whatsapp'></i></a>
 
 <div class="servicio_title">
     <strong>Areas y Especialidades</strong>

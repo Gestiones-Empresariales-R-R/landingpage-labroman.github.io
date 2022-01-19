@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Spline+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
 
 *{
     font-family: 'Spline Sans', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 body{
@@ -31,50 +34,88 @@ body{
 
 /* ======================================== */
 
-.index_info img{
-    width: 300px;
-    height: 300px;
+.index_recuadro{
+    width: 100%;
+    height: 55px;
+    background-color: rgb(93, 49, 255);
+}
+
+.appWhatsapp{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+}
+
+.appWhatsapp i{
+    font-size: 50px;
+    background-color: rgb(40, 216, 40);
+    border-radius: 100%;
+    color: white;
+}
+
+/* ======================================== */
+
+.index_section{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.uno{
+    background-image: url(../img/mision_vision.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
-    background-size: 100% auto;
 }
 
-.index_info_1,
-.index_info_2{
-    background-color: #ffffff;
-    width: 80%;
-    box-shadow: 1px 3px 3px rgb(207, 207, 207);
-    margin-left: 200px;
-    display: flex;
-    margin-top: 50px;
-    padding: 20px;
-    height: 380px;
-}
-
-.index_info_1:hover,
-.index_info_2:hover{
-    box-shadow: 9px 12px 12px rgb(207, 207, 207);
-    transition: box-shadow 0.5s ease;
-}
-
-.index_info_text1,
-.index_info_text2{
+.index_section_text1,
+.index_section_text2{
     width: 50%;
-    transition: top 1s ease;
-}
-
-.index_info_text1{
-    margin-left: 120px;
-    margin-top: 50px;
-}
-
-.index_info_image2{
-    margin-left: 100px;
+    color: white;
+    font-size: 30px;
     margin-top: 30px;
 }
 
-.index_info_text2{
-    margin-top: 100px;
-    margin-left: 40px;
+.index_section_text1 h2{
+    text-align: left;
+    margin-left: 80px;
+    font-family: 'Dongle', sans-serif;
+}
+
+.index_section_text1 p,
+.index_section_text2 p{
+    font-family: 'Dongle', sans-serif;
+}
+
+.index_section_text1 hr{
+    float: left;
+}
+
+.index_section_text2 hr{
+    float: right;
+}
+
+.index_section_text2 h2{
+    font-family: 'Dongle', sans-serif;
+    text-align: right;
+    margin-right: 150px;
+}
+
+hr{
+    width: 70%;
+    color: white;
+}
+
+.index_section_text1{
+    margin-left: 30px;
+}
+
+.index_section_text2{
+    right: 0;
+    position: absolute;
+    margin-top: -30px;
+    margin-right: 30px;
 }

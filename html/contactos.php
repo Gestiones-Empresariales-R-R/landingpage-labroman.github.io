@@ -1,6 +1,6 @@
 <?php include('../resource/head.php') ?>
 
-<header style="background-image: url(../img/contactos.jpg);">
+<header>
     <nav class="nav" id="nav-menu">
         <ul class="nav_list">
             <li class="nav_item">
@@ -15,9 +15,11 @@
         </ul>
     </nav>
     <div class="text">
-        <h1><b style="color: black;">Contac</b>tenos</h1>
+        <h1>❝ Contactenos ❞</h1>
     </div>
 </header>
+
+<a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=50576051000" class="appWhatsapp"><i class='bx bxl-whatsapp'></i></a>
 
 <div id="contactos_info">
 		<div id="contactos_title">

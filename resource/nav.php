@@ -2,6 +2,9 @@
 
 <nav class="nav" id="nav-menu">
     <ul class="nav_list">
+        <li class="logo">
+            <img src="img/logo.png" alt="Imagen de la Empresa">
+        </li>
         <li class="nav_item">
             <a href="../index.php" class="nav_link">Inicio</a>
         </li>

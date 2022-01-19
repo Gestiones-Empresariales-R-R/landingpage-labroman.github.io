@@ -19,6 +19,29 @@ ul{
     list-style: none;
 }
 
+.appWhatsapp{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+}
+
+.appWhatsapp i{
+    font-size: 50px;
+    background-color: rgb(40, 216, 40);
+    border-radius: 100%;
+    color: white;
+}
+
+.header{
+    height: 400px;
+    background-image: url(../img/servicio_1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .servicio_info_1 p,
 .servicio_info_2 p{
     text-align: justify;
@@ -29,14 +52,6 @@ ul{
 
 .servicio_info h3{
     text-align: center;
-    /* margin-top: 10px; */
-}
-
-header{
-    height: 600px;
-    width: 1519px;
-    margin-left: -8px;
-    margin-top: -16px;
 }
 
 .nav_list{
@@ -61,10 +76,12 @@ header{
 }
 
 .text{
-    margin-top: 400px;
-    margin-left: 30px;
-    font-size: 30px;
     color: white;
+}
+
+h1{
+    text-align: center;
+    margin-top: -230px;
 }
 
 /* =================================== */
@@ -90,7 +107,7 @@ header{
 .servicio_info{
     height: 100%;
     margin-left: -8px;
-    width: 1519px;
+    width: 100%;
     background-repeat: no-repeat;
 }
 
@@ -122,6 +139,3 @@ header{
 .urinaria:hover { color: yellowgreen; background-color: rgb(249, 249, 249); transition: color 0.5s ease; }
 /* ================================= */
 
-.footer{
-    margin-left: -8px;
-}
