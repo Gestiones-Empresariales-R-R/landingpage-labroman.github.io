@@ -29,18 +29,19 @@
         <h2>Mision</h2>
         <hr>
         <br>
-        <p>Voluptatem magnam corrupti quo itaque quaerat quasi molestias, 
-            hic voluptates tempora perspiciatis, nesciunt nihil et facilis! Ex 
-            beatae officiis explicabo nemo nesciunt.
+        <p>
+            Brindar un servicio de Laboratorio Clinico de calidad, manteniendo el compromiso 
+            con la salud de nuestros pacientes a través de la seguridad y confidencialidad 
+            de los resultados gracias a nuestro personal calificado y equipos con tecnologia moderna.
         </p>
     </div>
     <div class="index_section_text2">
         <h2>Vision</h2>
         <hr>
         <br>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis 
-            harum modi ratione tempora doloribus repellendus, magni maxime totam, 
-            at eaque ea delectus, atque velit eos impedit. Officia quo nesciunt rem.
+        <p>
+            Ser lider en el area de Laboratorio Clinico garantizando la calidad y confiabilidad 
+            de los resultados de una manera eficiente y segura.
         </p>
     </div>
 </section>

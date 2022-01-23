@@ -19,7 +19,36 @@
     </div>
 </header>
 
+<div class="servicio_recuadro"></div>
+
 <a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=50576051000" class="appWhatsapp"><i class='bx bxl-whatsapp'></i></a>
+
+<div class="servicio_presentation">
+    <div class="servicio_presentation_img">
+        <img src="../img/logo_i.png" alt="">
+    </div>
+    <div class="division">
+        <hr>
+    </div>
+    <div class="servicio_presentation_text">
+        <br>
+        <strong>
+            El laboratorio clinico Romna consta con tecnologia
+            de punta, el cual ofrece resultados confiables que
+            contribuyen al estudio, prevencion, diagnostico y tratamiento
+            del paciente. Deacuerdo con los prinicipios basicos
+            de calidad el personal del laboartorio esta altamente
+            calificado.
+            <br><br>
+            Todo el proceso de análisis, desde la recolección de la muestra 
+            hasta el reporte de resultados, está sujeto a un estricto programa 
+            de control de calidad.En efecto, toda nuestra operación, desde la 
+            entrada de datos del paciente hasta el reporte de sus resultados y 
+            la captura de datos contables son efectuados por medio de sistemas 
+            de informática.
+        </strong>
+    </div>
+</div>
 
 <div class="servicio_title">
     <strong>Areas y Especialidades</strong>
@@ -45,7 +74,7 @@
         <div class="hormonas">
             <i class='bx bx-dna'></i>
             <br><br><br>
-            <h3>Carga hormonal</h3>
+            <h3>Pefil hormonal</h3>
             <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
         </div>
         <div class="marcadores">
