@@ -21,48 +21,33 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=50576051000" class="appWhatsapp"><i class='bx bxl-whatsapp'></i></a>
 
-<div id="contactos_info">
-		<div id="contactos_title">
-			<h2>
-				<em class="contactos_strong_1 t1">Contacta con</em>
-				<em class="contactos_strong_2 t2">Nosotros</em>
-			</h2>
-			<p class="contactos_descripcion">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-			</p>
-			<hr>
-			<div id="contactos_contenido">
-				
-				<div id="izquierda">
-					<p class="descripcion-pagina texto-contacto">
-						Direccion: <strong>Oficentro Metropolitano Km9.5 Carretera a Masaya,
-						edificio Oficentro modulo 7.</strong><br>
-						Direccion: <strong>Pista Jean Paul Genie Club Terraza 400mtr arriba,
-						frente al costado Este, Centro Comercial El Tiangue.</strong><br>
-						Direccion: <strong>Uniplaza k-8km carretera sur.</strong><br>
-						Direccion: <strong>Plaza Serranias km 12.5 Carretera Sur.</strong><br>
-						Telélefono: <strong>7605-1000</strong><br>
-						PBX: <strong>2298 1434</strong><br>
-						Celular: <strong>*2273</strong><br>
-					</p>
-				</div>	
+<div class="contact_info">
+	<div class="contac_direcciones">
+		<div class="direcciones">
+			<strong>DIRECCIONES</strong>
+			<br><br><br>
+			<i class='bx bxs-direction-right'></i>
+			Oficentro Metropolitano Km9.5 Carretera a Masaya, edificio Oficentro modulo 7.<br><br>
+			<i class='bx bxs-direction-right'></i>
+			Pista Jean Paul Genie Club Terraza 400mtr arriba, frente al costado Este, El Tiangue.<br><br>
+			<i class='bx bxs-direction-right'></i>
+			Uniplaza k-8km carretera sur.<br><br>
+			<i class='bx bxs-direction-right'></i>
+			Plaza Serranias km 12.5 Carretera Sur.<br><br><br>
 
-				<div id="derecha">
-					<form action="#" method="POST">
-						<label for="">Nombre Completo: </label><input type="text" name="nombre" placeholder="Ingresa tu nombre" class="nombre-mensaje"><br><br>
-						<label for="">correo Electronico: </label><input type="email" name="correo" placeholder="Ingresa tu coreo" class="email-asunto"><br><br>
-						<label for="">Asunto: </label><input type="text" name="asunto" placeholder="Ingresa el asunto" class="email-asunto"><br><br>
-						<label for="">Mensaje: </label><br><br>
-						<textarea name="mensaje" placeholder="Ingrese su mensaje " class="nombre-mensaje"></textarea>
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" name="enviar" value="Enviar consulta">
-					</form>
-				</div>
-				<div id="mapa">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d632.3116002281504!2d-86.28414918923373!3d12.137384894263311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7155d857262b13%3A0x36896d51d558d74b!2sLaboratorio%20Cl%C3%ADnico%20Rom%C3%A1n%20-%20Sucursal%20Central!5e0!3m2!1ses!2sni!4v1642244540409!5m2!1ses!2sni" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-				</div>
-			</div>
+			<strong>CONTACTOS</strong>
+			<br><br><br>
+			<i class='bx bxs-contact'></i>
+			(Mov) +505 7605-1000 <br><br>
+			<i class='bx bxs-contact'></i>
+			(PBX) 22981434 <br><br>
+			<i class='bx bxs-contact'></i>
+			(Celular) *2273 <br><br>
+		</div>
+		<div class="mapa">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d632.3116002281504!2d-86.28414918923373!3d12.137384894263311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7155d857262b13%3A0x36896d51d558d74b!2sLaboratorio%20Cl%C3%ADnico%20Rom%C3%A1n%20-%20Sucursal%20Central!5e0!3m2!1ses!2sni!4v1642244540409!5m2!1ses!2sni" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 	</div>
+</div>
 
-    <?php include('../resource/footer.php') ?>
+<?php include('../resource/footer.php') ?>

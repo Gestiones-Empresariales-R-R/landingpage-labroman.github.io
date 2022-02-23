@@ -63,25 +63,25 @@
             <i class='bx bxs-injection'></i>
             <br><br><br>
             <h3>Hematóloga y coagulación</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="quimica">
             <i class='bx bx-scatter-chart'></i>
             <br><br><br>
             <h3>Química sanguínea general</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="hormonas">
             <i class='bx bx-dna'></i>
             <br><br><br>
             <h3>Pefil hormonal</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="marcadores">
             <i class='bx bx-plus-medical'></i>
             <br><br><br>
             <h3>Marcadores tumorales</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
     </div>
     <div class="servicio_info_2">
@@ -89,25 +89,25 @@
             <i class='bx bxs-virus'></i>
             <br><br><br>
             <h3>Enfermedades infecto contagiosas</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="inmunohematologia">
             <i class='bx bx-plus-medical'></i>
             <br><br><br>
             <h3>Inmunohematologia</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="bacterias">
             <i class='bx bxs-bug'></i>
             <br><br><br>
             <h3>Bacteriología</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
         <div class="urinaria">
             <i class='bx bxs-bowl-hot'></i>
             <br><br><br>
             <h3>Química urinaria</h3>
-            <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p>
+            <!-- <p>ullam, voluptatum quisquam. Cum corporis numquam fuga recusandae cupiditate minima expedita!</p> -->
         </div>
     </div>
 </div>

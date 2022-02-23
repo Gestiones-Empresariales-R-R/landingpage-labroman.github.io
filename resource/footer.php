@@ -20,10 +20,8 @@
         <div class="footer_box">
             <h2>SIGUENOS</h2>
             <div class="social_network">
-                <a href="#" class="fa fa-facebook"></a>
-                <a href="#" class="fa fa-instagram"></a>
-                <a href="#" class="fa fa-twitter"></a>
-                <a href="#" class="fa fa-youtube"></a>
+                <a href="https://www.facebook.com/search/top?q=laboratorio%20cl%C3%ADnico%20rom%C3%A1n" class="fa fa-facebook"></a>
+                <a href="https://www.instagram.com/laboratorioclinicoroman/" class="fa fa-instagram"></a>
             </div>
         </div>
 
